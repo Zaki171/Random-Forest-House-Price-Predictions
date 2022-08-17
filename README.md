@@ -1,1 +1,2 @@
 # Random-Forest-House-Price-Predictions
+This program uses the Random Forest algorithm to make predictions for the Sale Prices of houses. The data in the train csv file is used to create the model and the data in the test csv file contains the houses to make predictions for. The program uses a label encoder to numerically encode the categorical data and SimpleImputer to fill in the null values. This is my first project featuring machine-learning models and therefore can easily be improved to predict more accurate values. 
